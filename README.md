@@ -1,5 +1,50 @@
 # CHMENG130-Mathematics-and-Statistics-in-Chemical-Engineering
 
+**Week 1: First-Order Differential Equations**
+
+* Introduction to differential equations and their classifications.
+* The Euler method for numerically solving first-order ordinary differential equations (ODEs).
+* Analytical solution methods for separable first-order ODEs.
+* Analytical solution methods for linear first-order ODEs.
+* Real-world applications of first-order ODEs: compound interest, terminal velocity, RC (resistor-capacitor) circuits, and the SIR epidemic model.
+
+**Week 2: Homogeneous Linear Differential Equations**
+
+* Generalizing the Euler numerical method for second-order ODEs.
+* Theoretical concepts for linear equations: the principle of superposition and the Wronskian.
+* Analytical solutions for homogeneous second-order ODEs with constant coefficients.
+* Using an exponential ansatz to find the characteristic equation of an ODE.
+* Solution methods for different characteristic root types: distinct real roots, complex-conjugate roots, and repeated roots.
+
+**Week 3: Inhomogeneous Linear Differential Equations**
+
+* Solving constant-coefficient ODEs with inhomogeneous terms (exponential, sine/cosine, and polynomials).
+* The phenomenon of resonance (when the forcing frequency equals the oscillator's natural frequency), including damped resonance.
+* Applications of inhomogeneous ODEs: RLC electrical circuits, a mass on a spring, and the pendulum.
+* Nondimensionalization and dimensional analysis.
+
+**Week 4: The Laplace Transform and Series Solution Methods**
+
+* Definition and application of the Laplace transform for solving linear ODEs.
+* Solving constant-coefficient ODEs with discontinuous or impulsive inhomogeneous terms.
+* Using the Heaviside step function and the Dirac delta function.
+* Solving initial value problems using transforms.
+* The series solution method for linear ODEs, including application to Airy's equation.
+
+**Week 5: Systems of Differential Equations**
+
+* Solving coupled systems of homogeneous first-order ODEs with constant coefficients.
+* Converting systems of ODEs into matrix algebra eigenvalue problems (handling distinct real and complex-conjugate eigenvalues).
+* Visualizing two-dimensional solutions using phase portraits (stable/unstable nodes, saddle points, and spirals).
+* Applications to coupled harmonic oscillators.
+* Calculating and utilizing normal modes to analyze system motion.
+
+**Week 6: Partial Differential Equations**
+
+* Defining and calculating Fourier series, including Fourier sine and cosine series.
+* Deriving the one-dimensional diffusion equation.
+* Solving partial differential equations (PDEs) using the method of separation of variables (dividing a PDE into two ODEs).
+* Using boundary conditions, ODE eigenvalues, and Fourier series to recover the full solution of the original PDE.
 
 ## W1 Summary
 
