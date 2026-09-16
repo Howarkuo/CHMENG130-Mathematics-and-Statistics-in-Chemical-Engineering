@@ -654,6 +654,7 @@ X(s) = \mathcal{L}\{x(t)\}.
 $$
 
 ---
+[![laplace1.png](laplace1.png)](laplace1.png)
 
 ## Question 2 — Laplace Transform of a Differential Equation
 
@@ -682,6 +683,8 @@ X(s) = \mathcal{L}\{x(t)\}.
 $$
 
 ---
+[![laplace2.png](laplace2.png)](laplace2.png)
+
 
 ## Question 3 — Inverse Laplace Transform
 
@@ -701,8 +704,13 @@ x(t)
 $$
 
 Use partial-fraction decomposition as needed.
+[![laplace3.png](laplace3.png)](laplace3.png)
+
+
+
 
 [![laplace-pairs.png](laplace-pairs.png)](laplace-pairs.png)
 [![laplace-properties.png](laplace-properties.png)](laplace-properties.png)
 
+laplace1.png
 
