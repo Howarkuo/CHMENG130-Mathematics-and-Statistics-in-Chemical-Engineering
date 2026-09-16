@@ -709,8 +709,22 @@ Use partial-fraction decomposition as needed.
 
 
 
+
+# what kind of ode require laplace transform , what else should be solved by integration factor or others?
+
+| ODE Form | Best First Method | Example |
+| :--- | :--- | :--- |
+| **Separable** | Separate variables + integrate | $\frac{dy}{dt} = ty$ |
+| **First-order linear** | Integrating factor | $\frac{dy}{dt} + p(t)y = q(t)$ |
+| **First-order exact** | Exact-equation method | $M(x,y)dx + N(x,y)dy = 0$ |
+| **Bernoulli** | Substitution $\rightarrow$ integrating factor | $y' + p(x)y = q(x)y^n$ |
+| **2nd-order linear, constant coefficients** | Characteristic equation | $y'' + 3y' + 2y = 0$ |
+| **Constant coefficients + simple forcing** | Characteristic + particular solution | $y'' + 3y' + 2y = e^{-t}$ |
+| **Linear IVP with step/pulse/piecewise/impulse input** | Laplace transform | $y'' + 3y' + 2y = u(t-5)$ |
+| **Control-system model** | Laplace transform / transfer function | $\tau\dot{y} + y = Ku$ |
+| **Nonlinear / coupled / no easy analytic form** | Numerical solver | CSTR, nonlinear kinetics, stiff systems |
+
+
+
 [![laplace-pairs.png](laplace-pairs.png)](laplace-pairs.png)
 [![laplace-properties.png](laplace-properties.png)](laplace-properties.png)
-
-laplace1.png
-
