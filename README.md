@@ -636,3 +636,68 @@ v_{\text{escape}}
 $$
 
 ---
+
+# W2: Laplace transform for solving Linear ODE (Map T domain -> S domain , eliminate Derivative t terms)
+
+## Question 1 — Laplace Transform with Exponential and Cosine
+
+Find the Laplace transform of
+
+$$
+x(t) = e^{-t}\cos(\pi t)
+$$
+
+Determine
+
+$$
+X(s) = \mathcal{L}\{x(t)\}.
+$$
+
+---
+
+## Question 2 — Laplace Transform of a Differential Equation
+
+Consider the differential equation
+
+$$
+\ddot{x} + \dot{x} - 6x = e^{-t}
+$$
+
+with initial conditions
+
+$$
+x(0) = 0
+$$
+
+and
+
+$$
+\dot{x}(0) = 0.
+$$
+
+Take the Laplace transform of the differential equation and solve for
+
+$$
+X(s) = \mathcal{L}\{x(t)\}.
+$$
+
+---
+
+## Question 3 — Inverse Laplace Transform
+
+Given
+
+$$
+X(s)
+=\frac{1}
+{(s+1)(s+2)(s+3)},
+$$
+
+find the corresponding time-domain function
+
+$$
+x(t)
+=\mathcal{L}^{-1}\{X(s)\}.
+$$
+
+Use partial-fraction decomposition as needed.
