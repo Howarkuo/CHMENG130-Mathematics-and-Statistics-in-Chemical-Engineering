@@ -701,3 +701,8 @@ x(t)
 $$
 
 Use partial-fraction decomposition as needed.
+
+[![laplace-pairs.png](laplace-pairs.png)](laplace-pairs.png)
+[![laplace-properties.png](laplace-properties.png)](laplace-properties.png)
+
+
