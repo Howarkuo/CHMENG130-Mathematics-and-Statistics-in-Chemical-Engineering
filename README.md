@@ -728,3 +728,6 @@ Use partial-fraction decomposition as needed.
 
 [![laplace-pairs.png](laplace-pairs.png)](laplace-pairs.png)
 [![laplace-properties.png](laplace-properties.png)](laplace-properties.png)
+
+# for non integer power, laplace transform method?..
+Use gamma function formula ! (generalized factorial)
