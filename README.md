@@ -729,8 +729,8 @@ Use partial-fraction decomposition as needed.
 [![laplace-pairs.png](laplace-pairs.png)](laplace-pairs.png)
 [![laplace-properties.png](laplace-properties.png)](laplace-properties.png)
 
-## for constant , laplace transform is?
-1/s ! 
+## for constant k , laplace transform is?
+k/s ! 
 
 ## dont confuse laplace result of unit step function and impulse function !
 unit step -> 1/s , while impulse -> 1!
